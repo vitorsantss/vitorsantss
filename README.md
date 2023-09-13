@@ -9,7 +9,7 @@
 <h3 align="center">
   Web Development Student • IT Professional
 </h3>
-<h1 align="center"> Programming Languages </h1><br/>
+<h1 align="center"> Studying programming languages </h1><br/>
 
 <table align="center">
   <tr>
