@@ -14,26 +14,30 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Node.js
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="ts" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="ts" />
-      <br>TypeScript
-    </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Node.js
+        <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="48" height="48" alt="React">
+      <br>React
       </td>
 </table>
 <h1 align="center"> Contacts </h1>
