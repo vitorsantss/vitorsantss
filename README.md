@@ -1,15 +1,10 @@
-<h1 align="center">
-  Hello World 👋
-</h1>
-
-<div align="center">
-   <img height="380em" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif"/>
+<div>
+  <h1 align="center">Hello World 👋</h1>
+  <p align="center">Web Development Student</p>
 </div>
 
-<h3 align="center">
-  Web Development Student • IT Professional
-</h3>
-<h1 align="center"> Studying programming languages </h1><br/>
+
+<h3 align="center"> Studying programming languages </h3><br/>
 
 <table align="center">
   <tr>
