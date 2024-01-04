@@ -2,7 +2,7 @@
   <h1 align="center">Bem-vindo ao meu Repositório!</h1>
 </div>
 
-<h3 align="center">Tecnologias</h3><br/>
+<h3 align="center">Experiência nas tecnologias:</h3><br/>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,django,express,react,angular,mysql" />
