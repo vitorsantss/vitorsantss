@@ -5,7 +5,7 @@
 <h3 align="center">Experiência nas tecnologias:</h3><br/>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,django,express,react,angular,mysql" />
+    <img src="https://skillicons.dev/icons?i=js,python,nodejs,express,react,mysql" />
 </p>
 
 <h2 align="center">Contatos</h2>
