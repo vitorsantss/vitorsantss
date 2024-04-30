@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Bem-vindo ao meu Repositório!</h1>
+  <h1 align="center">Bem-vindo ao meu repositório!</h1>
 </div>
 
 <h3 align="center">Experiência nas tecnologias:</h3><br/>
